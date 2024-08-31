@@ -1,0 +1,6 @@
+[book]
+authors = ["Irene Fedorenko"]
+language = "ru"
+multilingual = true
+src = "./"
+title = "Физика для школьников и не только"
