@@ -4,3 +4,6 @@ language = "ru"
 multilingual = true
 src = "./"
 title = "Физика для школьников и не только"
+
+[output.html]
+mathjax-support = true
